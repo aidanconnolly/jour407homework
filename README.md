@@ -62,4 +62,12 @@ Below is a GIF to compare the two maps.
 If you plot each county in relation to its Republican voting percentage and voter turnout percentage, there is a positive correlation. 
 ![Scatter](Images/Scatter.png)
 
+The original data and reorganized data can be found in the [Data folder.](Data/)
+
+The [Jupyter Notebook](VoterTurnout.ipynb) shows the process to create the ggplot graphs.
+
+The [Mapping folder](Mapping/) holds the QGIS project files, Nebraska shapefile and data.
+
+The [Images folder](Images/) holds the final pictures as well as the pictures used for the gif and the photoshop file used to create it.
+
 
