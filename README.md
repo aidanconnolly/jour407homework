@@ -2,7 +2,7 @@
 
 Since 2000, the number of registered voters in Nebraska has increased by 11.6 percent. In that same time span and the number of registered Republicans in Nebraska has increased by 8.4 percent, the number of registered Libertarians has increased 523 percent. 
 
-But the number of registered Democrats has decreased by 15.5 percent.
+But the number of registered Democrats has decreased by 5.6 percent.
 
 ![Turnout Graph](Images/TurnoutGraph.png)
 
